@@ -14,9 +14,8 @@ const Header = () => {
       <Link href={"/"} className="mr-5 hover:text-gray-900">E-Commerce</Link>
     </a>
     <nav className="md:mr-auto md:ml-4 md:py-1 md:pl-4 md:border-l md:border-gray-400 flex flex-wrap items-center text-base justify-center">
-      <Link href={"/"} className="mr-5 hover:text-gray-900">Categories</Link>
-      <Link href={"/"} className="mr-5 hover:text-gray-900">Sort</Link>
-      <Link href={"/"} className="mr-5 hover:text-gray-900">First Link</Link>
+      <Link href={"/Products"} className="mr-5 hover:text-gray-900">Products</Link>
+      
 
     </nav>
     <Link href={"/Login"}>
