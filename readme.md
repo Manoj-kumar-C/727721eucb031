@@ -17,9 +17,9 @@ cd frontend
 npm run dev
 
 ```
-Tech Stack: 
+## Tech Stack: 
 
-Backend:
+### Backend:
 
 ```
 Express Js
@@ -29,7 +29,7 @@ Nodemon
 ```
 
 
-FrontEnd 
+### FrontEnd 
 ```
 Next Js
 Tailwind Css
