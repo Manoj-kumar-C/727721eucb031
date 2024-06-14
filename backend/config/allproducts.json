@@ -1,0 +1,273 @@
+[
+    {
+      "productName": "Phone 1",
+      "price": 800,
+      "rating": 4.5,
+      "discount": 10,
+      "availability": "yes",
+      "company": "AMZ",
+      "category": "Phone"
+    },
+    {
+      "productName": "Computer 1",
+      "price": 1200,
+      "rating": 4.6,
+      "discount": 15,
+      "availability": "no",
+      "company": "FLP",
+      "category": "Computer"
+    },
+    {
+      "productName": "TV 1",
+      "price": 1500,
+      "rating": 4.7,
+      "discount": 20,
+      "availability": "yes",
+      "company": "SNP",
+      "category": "TV"
+    },
+    {
+      "productName": "Earphone 1",
+      "price": 50,
+      "rating": 4.3,
+      "discount": 5,
+      "availability": "yes",
+      "company": "MYN",
+      "category": "Earphone"
+    },
+    {
+      "productName": "Tablet 1",
+      "price": 400,
+      "rating": 4.4,
+      "discount": 25,
+      "availability": "no",
+      "company": "AZO",
+      "category": "Tablet"
+    },
+    {
+      "productName": "Charger 1",
+      "price": 20,
+      "rating": 4.2,
+      "discount": 8,
+      "availability": "yes",
+      "company": "AMZ",
+      "category": "Charger"
+    },
+    {
+      "productName": "Mouse 1",
+      "price": 30,
+      "rating": 4.5,
+      "discount": 10,
+      "availability": "yes",
+      "company": "FLP",
+      "category": "Mouse"
+    },
+    {
+      "productName": "Pendrive 1",
+      "price": 15,
+      "rating": 4.6,
+      "discount": 12,
+      "availability": "no",
+      "company": "SNP",
+      "category": "Pendrive"
+    },
+    {
+      "productName": "Remote 1",
+      "price": 25,
+      "rating": 4.3,
+      "discount": 5,
+      "availability": "yes",
+      "company": "MYN",
+      "category": "Remote"
+    },
+    {
+      "productName": "Speaker 1",
+      "price": 100,
+      "rating": 4.7,
+      "discount": 30,
+      "availability": "yes",
+      "company": "AZO",
+      "category": "Speaker"
+    },
+    {
+      "productName": "Headset 1",
+      "price": 150,
+      "rating": 4.8,
+      "discount": 20,
+      "availability": "no",
+      "company": "AMZ",
+      "category": "Headset"
+    },
+    {
+      "productName": "Laptop 1",
+      "price": 2236,
+      "rating": 4.7,
+      "discount": 63,
+      "availability": "yes",
+      "company": "FLP",
+      "category": "Laptop"
+    },
+    {
+      "productName": "Laptop 2",
+      "price": 3000,
+      "rating": 4.5,
+      "discount": 50,
+      "availability": "no",
+      "company": "SNP",
+      "category": "Laptop"
+    },
+    {
+      "productName": "Laptop 3",
+      "price": 1500,
+      "rating": 4.3,
+      "discount": 30,
+      "availability": "yes",
+      "company": "MYN",
+      "category": "Laptop"
+    },
+    {
+      "productName": "Laptop 4",
+      "price": 2000,
+      "rating": 4.8,
+      "discount": 40,
+      "availability": "yes",
+      "company": "AZO",
+      "category": "Laptop"
+    },
+    {
+      "productName": "Laptop 5",
+      "price": 2500,
+      "rating": 4.6,
+      "discount": 20,
+      "availability": "no",
+      "company": "AMZ",
+      "category": "Laptop"
+    },
+    {
+      "productName": "Laptop 6",
+      "price": 1800,
+      "rating": 4.7,
+      "discount": 10,
+      "availability": "yes",
+      "company": "FLP",
+      "category": "Laptop"
+    },
+    {
+      "productName": "Laptop 7",
+      "price": 2200,
+      "rating": 4.9,
+      "discount": 15,
+      "availability": "yes",
+      "company": "SNP",
+      "category": "Laptop"
+    },
+    {
+      "productName": "Laptop 8",
+      "price": 2100,
+      "rating": 4.4,
+      "discount": 25,
+      "availability": "no",
+      "company": "MYN",
+      "category": "Laptop"
+    },
+    {
+      "productName": "Laptop 9",
+      "price": 2300,
+      "rating": 4.5,
+      "discount": 35,
+      "availability": "yes",
+      "company": "AZO",
+      "category": "Laptop"
+    },
+    {
+      "productName": "Laptop 10",
+      "price": 2400,
+      "rating": 4.6,
+      "discount": 45,
+      "availability": "yes",
+      "company": "AMZ",
+      "category": "Laptop"
+    },
+    {
+      "productName": "Keypad 1",
+      "price": 20,
+      "rating": 4.1,
+      "discount": 5,
+      "availability": "yes",
+      "company": "FLP",
+      "category": "Keypad"
+    },
+    {
+      "productName": "Bluetooth 1",
+      "price": 30,
+      "rating": 4.2,
+      "discount": 10,
+      "availability": "no",
+      "company": "SNP",
+      "category": "Bluetooth"
+    },
+    {
+      "productName": "Phone 2",
+      "price": 850,
+      "rating": 4.6,
+      "discount": 12,
+      "availability": "yes",
+      "company": "MYN",
+      "category": "Phone"
+    },
+    {
+      "productName": "Computer 2",
+      "price": 1300,
+      "rating": 4.7,
+      "discount": 18,
+      "availability": "no",
+      "company": "AZO",
+      "category": "Computer"
+    },
+    {
+      "productName": "TV 2",
+      "price": 1600,
+      "rating": 4.8,
+      "discount": 25,
+      "availability": "yes",
+      "company": "AMZ",
+      "category": "TV"
+    },
+    {
+      "productName": "Earphone 2",
+      "price": 55,
+      "rating": 4.4,
+      "discount": 6,
+      "availability": "yes",
+      "company": "FLP",
+      "category": "Earphone"
+    },
+    {
+      "productName": "Tablet 2",
+      "price": 450,
+      "rating": 4.5,
+      "discount": 28,
+      "availability": "no",
+      "company": "SNP",
+      "category": "Tablet"
+    },
+    {
+      "productName": "Charger 2",
+      "price": 25,
+      "rating": 4.3,
+      "discount": 9,
+      "availability": "yes",
+      "company": "MYN",
+      "category": "Charger"
+    },
+    {
+      "productName": "Mouse 2",
+      "price": 35,
+      "rating": 4.6,
+      "discount": 12,
+      "availability": "yes",
+      "company": "AZO",
+      "category": "Mouse"
+    }
+  ]
+  

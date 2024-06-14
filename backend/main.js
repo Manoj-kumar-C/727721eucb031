@@ -7,7 +7,7 @@ const router = require('./routes/router.js'); // Ensure the path is correct
 const bodyparser = require('body-parser')
 const axios = require('axios');
 const bodyParser = require('body-parser');
-
+const all = require('./config/allproducts.json')
 
 app.use(bodyparser.json())
 app.use(bodyParser.urlencoded({extended: true}));
@@ -29,6 +29,10 @@ const api = axios.get('http://20.244.56.144/test/companies/AMZ/categories/Laptop
 });
 
 */
+
+app.get('/categories', (req,res)=>{
+    res.send(all)
+})
 app.get('/', router)
 
 app.listen(5000, ()=>{
