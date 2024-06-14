@@ -37,7 +37,7 @@ const ProductsPage = () => {
       <Header />
 
       <div className="container mx-auto py-8">
-        <h1 className="text-3xl font-bold mb-4">Products Listing with Sorting</h1>
+        <h1 className="text-3xl font-bold mb-4"> <center> Products Sorting </center></h1>
         
         {/* Sorting dropdown */}
         <div className="mb-4">
